@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace LINQInManhattan.Classes
-{
-    // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
+{ 
     public class Geometry
     {
         public string type { get; set; }
