@@ -1,0 +1,15 @@
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.exe
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.deps.json
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.runtimeconfig.json
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.runtimeconfig.dev.json
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.dll
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\bin\Debug\netcoreapp3.1\LINQInManhattan.pdb
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.csprojAssemblyReference.cache
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.AssemblyInfoInputs.cache
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.AssemblyInfo.cs
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.dll
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.pdb
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.genruntimeconfig.cache
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.csproj.CoreCompileInputs.cache
+C:\Users\mkref\source\repos\Lab09-LINQ\LINQInManhattan\obj\Debug\netcoreapp3.1\LINQInManhattan.csproj.CopyComplete
